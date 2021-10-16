@@ -1,4 +1,4 @@
-# Memsync
+# Memsync [![Go Reference](https://pkg.go.dev/badge/github.com/moeryomenko/memsync.svg)](https://pkg.go.dev/github.com/moeryomenko/memsync)
 
 Memsync provides a Memcached-based distributed mutual exclusion lock implementation for Go.
 
